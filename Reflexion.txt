@@ -1,0 +1,4 @@
+Keiner Alfredo Gomez Rodriguez
+Laura Melissa Gomez Alarcón
+
+Durante esta evaluación fortalecí mis conocimientos sobre el uso de Git y GitHub, comprendiendo cómo gestionar versiones de un proyecto de forma organizada. Aprendí a crear repositorios locales y remotos, realizar commits con mensajes descriptivos y trabajar con ramas para desarrollar nuevas funcionalidades sin afectar la rama principal. También entendí la importancia de la colaboración mediante la clonación de repositorios y la integración de cambios con merge. Resolver un conflicto de manera manual me permitió comprender mejor cómo Git protege el trabajo de cada integrante del equipo. Alternar entre los roles de persona principal y de apoyo me ayudó a conocer las responsabilidades de cada uno durante el desarrollo de un proyecto. En general, esta práctica fue muy útil para afianzar el trabajo colaborativo y el manejo de una herramienta fundamental en el desarrollo de software.
